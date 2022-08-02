@@ -1,0 +1,21 @@
+body {
+    background-color: WhiteSmoke;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    background-color:black;
+    color:white;
+}
+
+p {
+    font-size: 30px;
+}
+
+b {
+    color:red;
+}
+
+i {
+    color:blue;
+}
